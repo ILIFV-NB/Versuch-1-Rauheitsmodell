@@ -14,18 +14,8 @@ narrator: DE FEMALE
 
 # Versuch 1: Rauheitsmodell
 
-<!--
-style="color: red;"
--->
-Anmerkungen
-
-<!--
-style="color: red;"
--->
-* Der Satz des Röstie anstelle des folgenden?
-
 Für die Versuche 1 - 4 werden Ihnen zu erzielende Oberflächengüten vorgegeben. Ermitteln Sie mithilfe des
-Oberflächenmodells und unter Berücksichtigung des ausgewählten Werkzeuges geeignete Bearbeitungsparameter und tragen diese in die Tabelle *Technologiewerte – Oberflächenmodell* ein. Diese Parameter benötigen Sie für Ihre praktischen Untersuchungen vor Ort und sind in der Maschinensteuerung anzuwählen.
+Oberflächenmodells und unter Berücksichtigung des ausgewählten Werkzeuges geeignete Bearbeitungsparameter und tragen diese in untenstehende Tabelle ein. Diese Parameter benötigen Sie für Ihre praktischen Untersuchungen vor Ort und sind in der Maschinensteuerung anzuwählen.
 
 Mit Hilfe der im Labor zur Verfügung stehenden geeigneten Messtechnik sind anschließend die erreichten Oberflächengüten zu messen und die Ergebnisse im Protokoll auszuwerten.
 
