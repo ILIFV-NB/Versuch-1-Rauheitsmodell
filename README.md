@@ -41,27 +41,27 @@ style="width: 100%; "
 
 
 <br/>
-Versuch 1: Tragen Sie hier bitte hintereinander alle Parameter zu Versuch 1 ein!
 
-(ap - vc - f - n)
+~~**Tragen Sie hier bitte hintereinander alle Parameter zu den Versuchen 1 - 4 ein! Während des Praktikums tragen Sie die experimentell ermittelten Werte nach.**~~
 
-[[___ ___]]
-
-
-Versuch 2: Tragen Sie hier bitte hintereinander alle Werte zu Versuch 2 ein!
-
-(ap - vc - f - n)
+**Versuch 1:** (ap - vc - f - n) (Rz exp.)
 
 [[___ ___]]
 
-Versuch 3: Tragen Sie hier bitte hintereinander alle Werte zu Versuch 3 ein!
+<br/>
 
-(ap - vc - f - n)
+**Versuch 2:** (ap - vc - f - n) (Rz exp.)
 
 [[___ ___]]
 
-Versuch 4: Tragen Sie hier bitte hintereinander alle Werte zu Versuch 4 ein!
+<br/>
 
-(ap - vc - f - n)
+**Versuch 3:** (ap - vc - f - n) (Rz exp.)
+
+[[___ ___]]
+
+<br/>
+
+**Versuch 4:** (ap - vc - f - n) (Rz exp.)
 
 [[___ ___]]
