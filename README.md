@@ -4,9 +4,11 @@ author:   Nancy Brinkmann, Ronny Stolze
 
 email:    nancy.brinkmann@hs-magdeburg.de, ronny.stolze@hs-magdeburg.de
 
-version:  1.0.0
+version:  11.20
 
-language: de_DE
+language: de
+
+comment:  Versuch 1: Ermittlung von Bearbeitungsparametern zur Realisierung von Oberflächengüten
 
 narrator: DE FEMALE
 
