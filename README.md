@@ -95,6 +95,9 @@ Die folgenden Eingabemasken unterstützen Sie dabei, Ihre generierten Texdateien
 
 Dieses können Sie nun auswerten und sich als Bild herunterladen. Um einzelne Graphen auszublenden, klicken Sie auf das jeweilige Symbol in der Legende.
 
+Nutzen Sie für die Erstellung Ihres Protokolls bitte auch die Kurse ~~Theoretische Grundlagen~~, ~~Maschinen- und Gerätetechnik~~ sowie ~~Gesamtsystem WSWW+H~~!
+
+
 ## Rauheitskenngrößen
 
 ``` cvs (Ra in µm - Rz in µm - Rmax in µm)
