@@ -36,7 +36,7 @@ style="width: 100%; "
 | **Eckenradius <br/> WSPL** | | | | | | |
 | |**Parameter**	| | | | **Oberflächengüte**| |
 | | Schnitt- <br/> tiefe |Schnitt- <br/> geschw. |Vorschub |Drehzahl | gemittelte Rautiefe <br/> Rz in µm| |
-|**Versuch** |**ap** <br/> $[mm]$ |**vc** $[m/min]$ |**f** $[mm/U]$| **n** $[U/min]$ | Vorgabe | Experimentell |
+|**Versuch** |**ap** <br/> $[mm]$ |**vc** <br/> $[m/min]$ |**f** <br/> $[mm/U]$| **n** <br/> $[U/min]$ | Vorgabe | Experimentell |
 | | | | | | | |
 |**1**| | | | | **16** | |
 |**2**| | | | | **12** | |
