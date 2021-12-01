@@ -38,51 +38,59 @@ style="width: 100%; "
 | | Schnitt- <br/> tiefe |Schnitt- <br/> geschw. |Vorschub |Drehzahl | gemittelte Rautiefe <br/> Rz in µm| |
 |**Versuch** |**ap** <br/> $[mm]$ |**vc** <br/> $[m/min]$ |**f** <br/> $[mm/U]$| **n** <br/> $[U/min]$ | Vorgabe | Experimentell |
 | | | | | | | |
-|**1**| | | | | **16** | |
-|**2**| | | | | **12** | |
-|**3**| | | | | **6,3** | |
-|**4**| | | | | **3,2** | |
+|**1.1**| | | | | **16** | |
+|**1.2**| | | | | **12** | |
+|**1.3**| | | | | **6,3** | |
+|**1.4**| | | | | **3,2** | |
 
 
 <br/>
 
 Tragen Sie hier bitte jeweils unter **.1** hintereinander (ap - vc - f - n) alle Parameter zu den Versuchen 1 - 4 ein! Während des Praktikums tragen Sie die experimentell ermittelten Werte jeweils unter **.2** nach.
 
-**Versuch 1.1:** (ap - vc - f - n)
+**Versuch 1.1:**
+
+(ap - vc - f - n)
 
 [[___ ___]]
 
-**Versuch 1.2:** (Rz **exp.**)
-
-[[___ ___]]
-
-<br/>
-
-**Versuch 2.1:** (ap - vc - f - n)
-
-[[___ ___]]
-
-**Versuch 2.2:** (Rz **exp.**)
+(Rz **exp.**)
 
 [[___ ___]]
 
 <br/>
 
-**Versuch 3.1:** (ap - vc - f - n)
+**Versuch 1.2:**
+
+(ap - vc - f - n)
 
 [[___ ___]]
 
-**Versuch 3.2:** (Rz **exp.**)
+(Rz **exp.**)
 
 [[___ ___]]
 
 <br/>
 
-**Versuch 4.1:** (ap - vc - f - n)
+**Versuch 1.3:**
+
+(ap - vc - f - n)
 
 [[___ ___]]
 
-**Versuch 4.2:** (Rz **exp.**)
+(Rz **exp.**)
+
+[[___ ___]]
+
+<br/>
+
+**Versuch 1.4:**
+
+(ap - vc - f - n)
+
+[[___ ___]]
+
+(Rz **exp.**)
 
 [[___ ___]]
 
