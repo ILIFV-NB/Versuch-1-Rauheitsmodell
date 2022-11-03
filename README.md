@@ -2,9 +2,9 @@
 
 author:   Nancy Brinkmann, Ronny Stolze
 
-email:    nancy.brinkmann@hs-magdeburg.de, ronny.stolze@hs-magdeburg.de
+email:    nancy.brinkmann@h2.de, ronny.stolze@h2.de, ronny.brinkmann@h2.de
 
-version:  11.20
+version:  11.22
 
 language: de
 
@@ -38,10 +38,10 @@ style="width: 100%; "
 | | Schnitt- <br/> tiefe |Schnitt- <br/> geschw. |Vorschub |Drehzahl | gemittelte Rautiefe <br/> Rz in µm| |
 |**Versuch** |**ap** <br/> $[mm]$ |**vc** <br/> $[m/min]$ |**f** <br/> $[mm/U]$| **n** <br/> $[U/min]$ | Vorgabe | Experimentell |
 | | | | | | | |
-|**1.1**| | | | | **16** | |
-|**1.2**| | | | | **12** | |
-|**1.3**| | | | | **6,3** | |
-|**1.4**| | | | | **3,2** | |
+|**1.1**| |200 | | | **16** | |
+|**1.2**| |200 | | | **12** | |
+|**1.3**| |200 | | | **6,3** | |
+|**1.4**| |200 | | | **3,2** | |
 
 
 <br/>
