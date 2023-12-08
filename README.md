@@ -18,7 +18,7 @@ script:  https://cdnjs.cloudflare.com/ajax/libs/echarts/4.2.1/echarts-en.js
 
 # Versuch 1: Rauheitsmodell
 
-Für die Versuche 1.1 bis 1.4 werden Ihnen zu erzielende Oberflächengüten vorgegeben. Ermitteln Sie mithilfe des
+Für die Versuche 1.1 - 1.4 werden Ihnen zu erzielende Oberflächengüten vorgegeben. Ermitteln Sie mithilfe des
 Oberflächenmodells und unter Berücksichtigung des ausgewählten Werkzeuges geeignete Bearbeitungsparameter und tragen diese in untenstehende Tabelle ein. Diese Parameter benötigen Sie für Ihre praktischen Untersuchungen vor Ort und sind in der Maschinensteuerung anzuwählen.
 
 Mit Hilfe der im Labor zur Verfügung stehenden geeigneten Messtechnik sind anschließend die erreichten Oberflächengüten (Experimentell) zu messen und die Ergebnisse im Protokoll auszuwerten.
