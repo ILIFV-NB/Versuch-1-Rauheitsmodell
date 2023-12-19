@@ -200,7 +200,7 @@ function plotData(t1, x1, y1, z1) {
       nameGap: 30,
       axisLabel: {
         fontSize: 20,
-        formatter: 'Vorschub {value}'
+        formatter: 'Versuch 1.{value}'
       },
       nameTextStyle: {
         fontSize: 20,
